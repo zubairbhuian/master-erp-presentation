@@ -22,6 +22,7 @@ module.exports = {
         bigFont: "65px",
         h1: "45px",
         h2: "36px",
+        h3: "14px",
       },
       // fontFamily: {
       //   'titleF': ["Libre Baskerville", serif],
